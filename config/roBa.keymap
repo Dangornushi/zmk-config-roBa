@@ -50,6 +50,11 @@
             bindings = <&mkp MB2>;
             key-positions = <19 20>;
         };
+
+        middle {
+            bindings = <&mkp MB3>;
+            key-positions = <18 19 20>;
+        };
     };
 
     macros {
